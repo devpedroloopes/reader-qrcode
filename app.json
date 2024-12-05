@@ -19,7 +19,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/logo.png",
         "backgroundColor": "#333"
-      }
+      },
+      "package": "com.devpedroloopes.readerqrcode"
     },
     "web": {
       "favicon": "./assets/logo.png"
